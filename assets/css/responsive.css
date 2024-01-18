@@ -1,0 +1,15 @@
+@media only screen and (max-width: 1245px) {
+  .social-icons {
+    padding-top: 40%;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .social-icons {
+    padding-top: 50%;
+  }
+}
+@media only screen and (max-width: 560px) {
+  /* .coming-soon {
+    padding-bottom: 30%;
+  }
+} */

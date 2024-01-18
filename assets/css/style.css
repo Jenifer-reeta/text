@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+  overflow: hidden;
+
+  /* background-image: url(/assets/images/2.jpg); */
+}
+.coming-soon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  right: 0px;
+  bottom: 0px;
+  transform: translate(-50%, -50%);
+}
+.logo {
+  text-align: center;
+}
+.come-content h1 {
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+.come-content p {
+  font-size: 16px;
+  text-align: center;
+  color: white;
+}
+.social-icons {
+  text-align: center;
+  padding-top: 20%;
+}
+.social-icons i {
+  padding: 15px;
+  font-size: 18px;
+}
+.social-icons a i {
+  color: white;
+}
+.social-icons a i:hover {
+  color: #1660bf;
+}
